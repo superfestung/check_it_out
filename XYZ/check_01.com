@@ -1,5 +1,8 @@
-IF condition == TRUE
+;Press Vertical Softkey 1 on my new Screen
+PRESS(VS1)
+	IF condition == TRUE
 
-ELSE
+	ELSE
 
-ENDIF
+	ENDIF
+END_PRESS
